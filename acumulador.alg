@@ -13,4 +13,4 @@ inicio
  fimpara
  escreva(" A soma dos produtos é r$' ", total_acumulado)
 fimalgoritmo
-// ola
+// ola mundo
